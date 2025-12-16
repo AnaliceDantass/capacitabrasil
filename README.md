@@ -16,7 +16,6 @@ Essa aula abordou temas como: conectivos lógicos, tabela verdade e introdução
 # Introdução à lógica:
 - Tautologia (¬): Sempre verdadeira, independentemente dos valores das variáveis.
 - Contigência: Às vezes verdadeira, às vezes falsa.
-- Contradição: proposição ou conjunto de proposições que são sempre falsas, ou que contêm uma incompatibilidade fundamental.
 - Equivalência lógica (⇔): As variáveis são equivalentes se a relação entre elas forem tautologia.
 
 # Aula 03 de Raciocínio Lógico - Leis da lógica e argumentos que brilham
