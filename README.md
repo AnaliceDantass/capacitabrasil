@@ -23,5 +23,6 @@ A aula iniciou-se com um breve resumo sobre conceitos aplicados no raciocínio l
 Ao decorrer da aula, também foi introduzida a Lei de Morgan:
 - Definição: consiste em mostrar como a negaçao de uma conjunção vira uma disjunção de negações, e vice-versa. Por exemplo, "não é verdade que João e Maria foram" é equivalente a "João não foi ou Maria não foi".
 A Lei de Morgan no contexto da lógica estabelece que a negação de uma conjunção vira uma disjunção de negações.
+
 Ademais, também foi repassado o tema de Lei da dupla negação:
 - Definição: 
