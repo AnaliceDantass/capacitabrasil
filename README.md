@@ -15,5 +15,5 @@ Essa aula abordou temas como: conectivos lógicos, tabela verdade e introdução
 
 # Introdução à lógica:
 - Tautologia (¬): Sempre verdadeira, independentemente dos valores das variáveis.
-- Contigência: Às vezes verdadeira, às vezes falsa
-- Equivalência lógica (⇔): As variáveis são equivalentes se a relação entre elas forem tautologia
+- Contigência: Às vezes verdadeira, às vezes falsa.
+- Equivalência lógica (⇔): As variáveis são equivalentes se a relação entre elas forem tautologia.
