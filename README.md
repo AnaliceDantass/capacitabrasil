@@ -10,8 +10,8 @@ Essa aula foi essencial para a recordação de conceitos básicos da lógica de 
 Essa aula abordou temas como: conectivos lógicos, tabela verdade e introdução à lógica. No contexto dos conectivos lógicos, eles foram aplicados em pequenos exercícios para pôr em prática os conhecimentos adquiridos ao decorrer da aula, facilitando o processo de aprendizagem. Ao transcorrer da aula, foram introduzidos novos conetivos como implicação e bicondicional.
 
 # Conectivos lógicos:
-- Implicação (→): condicional ("se... então"): Torna-se falsa apenas quando a segunda variável é falsa. Caso contrário, é verdadeira.
-- Bicondicional (↔): condicional ("se e somente se"): É verdadeira quando as duas variáveis possuem o mesmo valor lógico.
+- Implicação (→) - condicional ("se... então"): Torna-se falsa apenas quando a segunda variável é falsa. Caso contrário, é verdadeira.
+- Bicondicional (↔) - condicional ("se e somente se"): É verdadeira quando as duas variáveis possuem o mesmo valor lógico.
 
 # Introdução à lógica:
 - Tautologia (¬): Sempre verdadeira, independentemente dos valores das variáveis.
